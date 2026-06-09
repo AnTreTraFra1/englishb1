@@ -344,6 +344,15 @@ nav .container {
   overflow: hidden;
 }
 
+.content-visual img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .content-visual::after {
   content: '';
   position: absolute;
@@ -439,6 +448,17 @@ nav .container {
   justify-content: center;
   font-size: 3.5rem;
   color: var(--white);
+  position: relative;
+  overflow: hidden;
+}
+
+.monument-visual img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .monument-visual.porta-rosa { background: linear-gradient(135deg, #C76B4A, #D4A847); }
