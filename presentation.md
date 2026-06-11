@@ -10,17 +10,13 @@
 
 Good morning everyone. Today I'm going to present my project: a website about the ancient Greek city of Elea, also known as Velia. This is an educational website I created for my English exam, and I will also tell you about the real archaeological site that the website describes.
 
-First, let me give you a quick overview. The website has five pages: a Home page, History, The Site, Philosophy, and a Visit page. It is a static HTML and CSS website — no frameworks, no JavaScript libraries, just pure code.
+First, let me give you a quick overview. The website has five pages: a Home page, History, The Site, Philosophy, and a Visit page. It is a static HTML and CSS website, so just pure code.
 
 Elea was a Greek city founded in 540 BC on the coast of Campania, in southern Italy. Today it is an archaeological park near the town of Ascea Marina. It is a UNESCO World Heritage site and one of the most important Greek settlements in Italy.
 
 ---
 
 ## 2. The Website — Technical Choices (3 min)
-
-Let me start with the technical side of the project.
-
-The website is built with plain HTML and CSS. There is no JavaScript framework, no build tools, no package manager. I made this choice intentionally: for a small educational website, simplicity is better. The site loads fast and works on any device.
 
 The design uses a warm, earthy colour palette inspired by the Mediterranean landscape:
 
